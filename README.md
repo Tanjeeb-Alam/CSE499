@@ -1,2 +1,3 @@
 # CSE499
-This repository contains all the contents regarding our project.
+This is a pet repository which contains non-confidiantial contents regarding our project (which is in another private repository). 
+We will make our private repository public as soon as our work is publshed. 
